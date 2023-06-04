@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b23ed6c7_002D464c_002D4629_002Da2fd_002Dedc568570978/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CustomerTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::284C19DA-5810-4D09-BF7B-DBE38F6893E5::net6.0::DDDSample.Tests.CustomerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::284C19DA-5810-4D09-BF7B-DBE38F6893E5::net6.0::DDDSample.Tests.AddressTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::284C19DA-5810-4D09-BF7B-DBE38F6893E5::net6.0::DDDSample.Tests.OrderTest.ThrowsExceptionWhenCustomerNameIsEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::284C19DA-5810-4D09-BF7B-DBE38F6893E5::net6.0::DDDSample.Tests.OrderTest.ThrowsExceptionWhenOrderContainsNoItems&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
